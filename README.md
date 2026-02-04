@@ -1,4 +1,4 @@
-##Cómo ejecutar
+## Cómo ejecutar
 
 pip install django
 python manage.py migrate
